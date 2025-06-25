@@ -2,7 +2,7 @@
 This repository contains the code, dataset processing, and evaluation results from our research paper:
 
 Comparative Study of Decision Tree, AdaBoost, Random Forest, Naïve Bayes, KNN, and Perceptron for Heart Disease Prediction
-Published at IEEE 
+Published at IEEE | Authors: Mohammad Maydanchi et al.
 
 # Project Overview
 Heart disease remains the leading cause of death worldwide. Early prediction of cardiovascular conditions can dramatically improve patient outcomes. In this project, we compare six machine learning classification models for predicting heart disease using real-world health survey data.
